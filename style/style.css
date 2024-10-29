@@ -1,0 +1,28 @@
+.title-2{
+    color: yellow;
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+}
+#paragraph{
+    color: yellow;
+    font-size: xx-large;
+}
+
+/* unvisited link */
+a:link {
+   color: brown;
+}
+
+/* visited  link */
+a:visited {
+    color: red;
+}
+/* mouse over  link */
+a:hover {
+    color: green;
+}
+
+
